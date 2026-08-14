@@ -206,13 +206,9 @@ I’m continuously improving my knowledge in:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mdhanifchowdhury&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" height="170" />
+<img src="./profile/stats.svg" alt="Hanif's GitHub Stats" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdhanifchowdhury&layout=compact&hide_border=true&langs_count=8" height="170" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=mdhanifchowdhury&hide_border=true" height="170" />
+<img src="./profile/top-langs.svg" alt="Hanif's Top Languages" height="170" />
 
 </div>
 
